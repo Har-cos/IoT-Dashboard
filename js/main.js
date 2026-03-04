@@ -29,5 +29,5 @@ function toggleLed(){
     circle.setAttribute("fill", ledState ? 'red' : 'grey');
 }
 function readSensor(){
-
+"ss"
 }
